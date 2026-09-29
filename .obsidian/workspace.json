@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dairyData/2026-09-18.md",
+                "file": "电源/DCDC/5V-24V DCDC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-18"
+              "title": "5V-24V DCDC"
             }
           }
         ]
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dairyData/2026-09-18.md",
+                "file": "电源/DCDC/5V-24V DCDC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +201,9 @@
   },
   "active": "dee0fb802a49f983",
   "lastOpenFiles": [
-    "Readme.md",
+    "C&C++",
     "dairyData/2026-09-18.md",
+    "Readme.md",
     "dairyData/未命名.md",
     "未命名.md",
     "dairyData",

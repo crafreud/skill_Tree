@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电源/DCDC/5V-24V DCDC.md",
+                "file": "202610082225.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5V-24V DCDC"
+              "title": "202610082225"
             }
           }
         ]
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电源/DCDC/5V-24V DCDC.md",
+                "file": "202610082225.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,15 +201,26 @@
   },
   "active": "3f7a724741120f75",
   "lastOpenFiles": [
+    "Pasted image 20261009172749.png",
+    "Pasted image 20261009172651.png",
     "嵌入式方向与技能全景图.md",
+    "嵌入式修炼清单.md",
+    "硬件理解自测-纠正与补课.md",
+    "C语言深度自测-纠正与补课.md",
+    "Pasted image 20261008222504.png",
+    "Readme.md",
+    "202610082225.md",
+    "未命名.md",
+    "硬件理解自测-纠正与补课.md.tmp.2472.98ed505499ad",
+    "C语言深度自测-纠正与补课.md.tmp.33432.1b669ca3cafd",
+    "电源/DCDC/5V-24V DCDC.md",
+    "嵌入式修炼清单.md.tmp.33432.4cafde8f9af6",
+    "嵌入式修炼清单.md.tmp.33432.f993a46f0950",
     "嵌入式方向与技能全景图.md.tmp.33432.57a50b9c111c",
     "C&C++",
     "dairyData/2026-09-18.md",
-    "Readme.md",
     "dairyData/未命名.md",
-    "未命名.md",
     "dairyData",
-    "电源/DCDC/5V-24V DCDC.md",
     "202609181617.md",
     "电源/DCDC",
     "电源/未命名.md",
